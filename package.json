@@ -1,7 +1,7 @@
 {
-  "name": "new",
+  "name": "react-bootstrap",
   "version": "1.0.0",
-  "description": "",
+  "description": "react-bootstrap practice",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
